@@ -1,8 +1,5 @@
 # Node.js based eCommerceApp
 ## _Backend code base_
-
-This eCommerceApp will be built as the part of first app building excercise in module 1 of the Relevel 
-backend  and fullstack course
 ## Features
 * Create the REST APIs for categories
 * Create the REST APIs for Products
